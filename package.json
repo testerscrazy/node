@@ -1,0 +1,8 @@
+{
+  "scripts":{
+    "jwan": "node Hello/app.js && node Hello/jwan.js"
+  },
+  "dependencies": {
+    "typescript": "^5.4.3"
+  }
+}
